@@ -3,7 +3,7 @@ Assume the intrisic is already calibrated (e.g. using https://github.com/kaikai2
 
 Run the demo:
 ```
-python homography_annotator.py --input_dir demo_input --selected_imgs *199* --undistort True --read_intri_from_file game_camparam/intri_data1.13.yml
+python homography_annotator.py --input_dir demo_input --selected_imgs "*199*" --undistort True --read_intri_from_file game_camparam/intri_data1.13.yml
 ```
 
 ## License
